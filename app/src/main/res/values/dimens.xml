@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_start">0dp</dimen> <!-- Adjust the value as needed -->
+    <!-- Define other dimensions if needed -->
+
+    <dimen name="margin_end">0dp</dimen> <!-- Adjust the value as needed -->
+
+    <dimen name="margin_top">0dp</dimen> <!-- Adjust the value as needed -->
+
+    <dimen name="margin_bottom">0dp</dimen> <!-- Adjust the value as needed -->
+
+    <dimen name="image_margin">30dp</dimen> <!-- Adjust the value as needed -->
+
+    <dimen name="corner_radius">30dp</dimen> <!-- Adjust the value as needed -->
+
+    <dimen name="image_corner_radius">15dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+
+</resources>
